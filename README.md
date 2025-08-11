@@ -8,16 +8,16 @@ Dataset source: https://www.kaggle.com/datasets/usdot/flight-delays.
 
 A)Project Objective:
 
-   1)Analyze the primary causes and patterns of flight delays and cancellations. 
+     1)Analyze the primary causes and patterns of flight delays and cancellations. 
 
-   2)Benchmark the on-time performance, delay severity, and cancellation rates of different airlines. 
+     2)Benchmark the on-time performance, delay severity, and cancellation rates of different airlines. 
 
-   3)Evaluate the operational performance of various U.S airports. 
+     3)Evaluate the operational performance of various U.S airports. 
 
-   4)Investigate how factors like time of day, day of week, month, and route affect flight operations.
+     4)Investigate how factors like time of day, day of week, month, and route affect flight operations.
 
-   5)Translate my findings into meaningful recommendations for stakeholders. 
-
+     5)Translate my findings into meaningful recommendations for stakeholders. 
+ 
 ===============================================================
 
 B)Tools: Excel + SQL + Power BI(DAX, Power Query - M Language).
@@ -30,10 +30,10 @@ C)Presentation Pdf File:
 
 D)Problem Statement:
 
-1)Flight delays and cancellations are significant issues in the U.S aviation industry, impacting passengers, airlines, and the economy. 
+    1)Flight delays and cancellations are significant issues in the U.S aviation industry, impacting passengers, airlines, and the economy. 
 
-2)To perform an in-depth analysis of historical flight data to identify key drivers of these disruptions, assess performance 
-and propose actionable insights.
+    2)To perform an in-depth analysis of historical flight data to identify key drivers of these disruptions, assess performance 
+      and propose actionable insights.
 
 ===============================================================
 
@@ -43,29 +43,29 @@ E)Live Power Bi Report:
 
 F)Dataset Overview:
 
- 3 tables - Airlines, Airports & Flights
+     3 tables - Airlines, Airports & Flights
  
-   1)Airlines  - 2 columns, 14 rows.
+      1)Airlines  - 2 columns, 14 rows.
    
-   2)Airports -  7 columns,322 rows.
+      2)Airports -  7 columns,322 rows.
    
-   3)Flights - 33 columns,58,19,079 rows.
+      3)Flights - 33 columns,58,19,079 rows.
 
 ===============================================================
 
 G)Data Cleaning:
 
-   1)Appropriate Data Types - Whole Number, Text, Time, Date etc.
+    1)Appropriate Data Types - Whole Number, Text, Time, Date etc.
    
-   2)Handling Null Values  -  Removed & Replaced.
+    2)Handling Null Values  -  Removed & Replaced.
    
-     2.1)Removed - Tail Number rows - blank. 
+      2.1)Removed - Tail Number rows - blank. 
      
-     2.2)Replaced - Null, Black values with 0 & ‘Not known’.
+      2.2)Replaced - Null, Black values with 0 & ‘Not known’.
      
-         2.2.1)Zero for - Departure Delay, Taxi out, Scheduled Time etc.
+          2.2.1)Zero for - Departure Delay, Taxi out, Scheduled Time etc.
          
-         2.2.2)Not known for Cancelation Reason.
+          2.2.2)Not known for Cancelation Reason.
          
    3)Created Calculated Columns - Departure Date. Departure Delay Desc, Airport Name, Actual Departure Airport Name,
      Month name, Quarter,Day/Night.
