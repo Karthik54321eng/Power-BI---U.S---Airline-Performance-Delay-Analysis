@@ -8,15 +8,15 @@ Dataset source: https://www.kaggle.com/datasets/usdot/flight-delays.
 
 A)Project Objective:
 
-     1)Analyze the primary causes and patterns of flight delays and cancellations. 
+ 1)Analyze the primary causes and patterns of flight delays and cancellations. 
 
-     2)Benchmark the on-time performance, delay severity, and cancellation rates of different airlines. 
+ 2)Benchmark the on-time performance, delay severity, and cancellation rates of different airlines. 
 
-     3)Evaluate the operational performance of various U.S airports. 
+ 3)Evaluate the operational performance of various U.S airports. 
 
-     4)Investigate how factors like time of day, day of week, month, and route affect flight operations.
+ 4)Investigate how factors like time of day, day of week, month, and route affect flight operations.
 
-     5)Translate my findings into meaningful recommendations for stakeholders. 
+ 5)Translate my findings into meaningful recommendations for stakeholders. 
  
 ===============================================================
 
@@ -30,9 +30,9 @@ C)Presentation Pdf File:
 
 D)Problem Statement:
 
-    1)Flight delays and cancellations are significant issues in the U.S aviation industry, impacting passengers, airlines, and the economy. 
+ 1)Flight delays and cancellations are significant issues in the U.S aviation industry, impacting passengers, airlines, and the economy. 
 
-    2)To perform an in-depth analysis of historical flight data to identify key drivers of these disruptions, assess performance 
+ 2)To perform an in-depth analysis of historical flight data to identify key drivers of these disruptions, assess performance 
       and propose actionable insights.
 
 ===============================================================
@@ -43,57 +43,57 @@ E)Live Power Bi Report:
 
 F)Dataset Overview:
 
-     3 tables - Airlines, Airports & Flights
+ 3 tables - Airlines, Airports & Flights
  
-      1)Airlines  - 2 columns, 14 rows.
+ 1)Airlines  - 2 columns, 14 rows.
    
-      2)Airports -  7 columns,322 rows.
+ 2)Airports -  7 columns,322 rows.
    
-      3)Flights - 33 columns,58,19,079 rows.
+ 3)Flights - 33 columns,58,19,079 rows.
 
 ===============================================================
 
 G)Data Cleaning:
 
-    1)Appropriate Data Types - Whole Number, Text, Time, Date etc.
+ 1)Appropriate Data Types - Whole Number, Text, Time, Date etc.
    
-    2)Handling Null Values  -  Removed & Replaced.
+ 2)Handling Null Values  -  Removed & Replaced.
    
-      2.1)Removed - Tail Number rows - blank. 
+ 2.1)Removed - Tail Number rows - blank. 
      
-      2.2)Replaced - Null, Black values with 0 & ‘Not known’.
+ 2.2)Replaced - Null, Black values with 0 & ‘Not known’.
      
-          2.2.1)Zero for - Departure Delay, Taxi out, Scheduled Time etc.
+ 2.2.1)Zero for - Departure Delay, Taxi out, Scheduled Time etc.
          
-          2.2.2)Not known for Cancelation Reason.
+ 2.2.2)Not known for Cancelation Reason.
          
-    3)Created Calculated Columns - Departure Date. Departure Delay Desc, Airport Name, Actual Departure Airport Name,
-     Month name, Quarter,Day/Night.
+ 3)Created Calculated Columns - Departure Date. Departure Delay Desc, Airport Name, Actual Departure Airport Name,
+ Month name, Quarter,Day/Night.
      
-    4)Formatted Columns - 0005 →00:05 hh:mm - Scheduled departure, Actual departure, Wheels OFF, Wheels ON, Scheduled
-     Arrival, Actual Arrival.
+ 4)Formatted Columns - 0005 →00:05 hh:mm - Scheduled departure, Actual departure, Wheels OFF, Wheels ON, Scheduled
+ Arrival, Actual Arrival.
      
 ===============================================================
 
 H)Key Insights:
 
-    a)Airlines Performance :
+a)Airlines Performance :
    
-      1)Total Flight Trips: 5.8M indicates substantial air traffic volume.
+ 1)Total Flight Trips: 5.8M indicates substantial air traffic volume.
+     
+ 2)Successful Flight Trips: 5.7M with only 75,163 cancellations confirms robust flight execution.
       
-      2)Successful Flight Trips: 5.7M with only 75,163 cancellations confirms robust flight execution.
+ 3)Diverted Trips: 15,187 — suggests minor rerouting but within control limits.
       
-      3)Diverted Trips: 15,187 — suggests minor rerouting but within control limits.
+ 4)Low Cancellation Rate: At just 1.29%, this indicates overall a strong operational reliability.
       
-      4)Low Cancellation Rate: At just 1.29%, this indicates overall a strong operational reliability.
+ 5)High On-Time Performance (OTP): 82.37% reflects that most flights are adhering to schedules.
       
-      5)High On-Time Performance (OTP): 82.37% reflects that most flights are adhering to schedules.
+ 6)Average Trip Distance - 822 Miles
       
-      6)Average Trip Distance - 822 Miles
+ 7)Delay Attribution Insights:
       
-      7)Delay Attribution Insights:
-      
-        7.1)Late Aircraft, Airline-related issues, Air system delay dominate delay reasons.
+     7.1)Late Aircraft, Airline-related issues, Air system delay dominate delay reasons.
        
         7.2)Weather Delay and Security delays are minimal, suggesting external infrastructure isn’t a
            major bottleneck.
