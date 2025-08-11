@@ -67,10 +67,10 @@ G)Data Cleaning:
          
           2.2.2)Not known for Cancelation Reason.
          
-   3)Created Calculated Columns - Departure Date. Departure Delay Desc, Airport Name, Actual Departure Airport Name,
+    3)Created Calculated Columns - Departure Date. Departure Delay Desc, Airport Name, Actual Departure Airport Name,
      Month name, Quarter,Day/Night.
      
-   4)Formatted Columns - 0005 →00:05 hh:mm - Scheduled departure, Actual departure, Wheels OFF, Wheels ON, Scheduled
+    4)Formatted Columns - 0005 →00:05 hh:mm - Scheduled departure, Actual departure, Wheels OFF, Wheels ON, Scheduled
      Arrival, Actual Arrival.
      
 ===============================================================
