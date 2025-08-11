@@ -7,6 +7,7 @@ Dataset source: https://www.kaggle.com/datasets/usdot/flight-delays.
 ===============================================================
 
 A)Project Objective:
+
 1)Analyze the primary causes and patterns of flight delays and cancellations. 
 2)Benchmark the on-time performance, delay severity, and cancellation rates of different airlines. 
 3)Evaluate the operational performance of various U.S airports. 
