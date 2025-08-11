@@ -93,20 +93,20 @@ H)Key Insights:
       
       7)Delay Attribution Insights:
       
-       7.1)Late Aircraft, Airline-related issues, Air system delay dominate delay reasons.
+        7.1)Late Aircraft, Airline-related issues, Air system delay dominate delay reasons.
        
-       7.2)Weather Delay and Security delays are minimal, suggesting external infrastructure isn’t a
+        7.2)Weather Delay and Security delays are minimal, suggesting external infrastructure isn’t a
            major bottleneck.
            
-       7.3)Airlines with Longer Flight Distances tend to show slightly higher arrival delays, indicating
+        7.3)Airlines with Longer Flight Distances tend to show slightly higher arrival delays, indicating
            possible routing or turnaround inefficiencies.
            
       8)Avg Arrival Delays :
       
-       8.1)Frontier Airlines  and Spirit Airlines lead in average
+        8.1)Frontier Airlines  and Spirit Airlines lead in average
            delays — potential areas for strategic improvement.
            
-       8.2)Hawaiian Airlines shows best delay control, a best
+        8.2)Hawaiian Airlines shows best delay control, a best
            practice benchmark.
            
       9)Area to be Focused: American Eagle Airlines has highest rate and lowest avg trip  distance, Avg Delay- 40 mins.
