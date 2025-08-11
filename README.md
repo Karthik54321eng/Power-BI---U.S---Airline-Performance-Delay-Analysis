@@ -77,7 +77,7 @@ G)Data Cleaning:
 
 H)Key Insights:
 
-   a)Airlines Performance :
+    a)Airlines Performance :
    
       1)Total Flight Trips: 5.8M indicates substantial air traffic volume.
       
@@ -111,7 +111,7 @@ H)Key Insights:
            
       9)Area to be Focused: American Eagle Airlines has highest rate and lowest avg trip  distance, Avg Delay- 40 mins.
 
-   b)Airports Performance :
+    b)Airports Performance :
    
       1)Performance Metrics : 
       
