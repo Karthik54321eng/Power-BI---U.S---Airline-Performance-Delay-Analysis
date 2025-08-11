@@ -37,7 +37,7 @@ A)Project Objective:
 
 ===============================================================
 
-E)Live Power Bi Report:
+E)Live Power Bi Report: https://app.powerbi.com/links/87_Lj_VGOR?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare&bookmarkGuid=2dec688a-f1a8-4b77-83cf-14c20a5b7411
 
 ===============================================================
 
