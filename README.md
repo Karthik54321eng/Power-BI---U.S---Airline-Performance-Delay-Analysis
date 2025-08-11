@@ -4,7 +4,7 @@
 
 Dataset source: https://www.kaggle.com/datasets/usdot/flight-delays.
 
-=======================================================================================================================================
+===============================================================
 
 A)Project Objective:
 1)Analyze the primary causes and patterns of flight delays and cancellations. 
@@ -13,26 +13,26 @@ A)Project Objective:
 4)Investigate how factors like time of day, day of week, month, and route affect flight operations.
 5)Translate my findings into meaningful recommendations for stakeholders. 
 
-=======================================================================================================================================
+===============================================================
 
 B)Tools: Excel + SQL + Power BI(DAX, Power Query - M Language).
 
-=======================================================================================================================================
+===============================================================
 
 C)Presentation Pdf File:
 
-=======================================================================================================================================
+===============================================================
 
 D)Problem Statement:
 1)Flight delays and cancellations are significant issues in the U.S aviation industry, impacting passengers, airlines, and the economy. 
 2)To perform an in-depth analysis of historical flight data to identify key drivers of these disruptions, assess performance 
 and propose actionable insights.
 
-=======================================================================================================================================
+===============================================================
 
 E)Live Power Bi Report:
 
-=======================================================================================================================================
+===============================================================
 
 F)Dataset Overview:
  3 tables - Airlines, Airports & Flights
@@ -40,7 +40,7 @@ F)Dataset Overview:
    2)Airports -  7 columns,322 rows.
    3)Flights - 33 columns,58,19,079 rows.
 
-=======================================================================================================================================
+===============================================================
 
 G)Data Cleaning:
    1)Appropriate Data Types - Whole Number, Text, Time, Date etc.
@@ -55,7 +55,8 @@ G)Data Cleaning:
    4)Formatted Columns - 0005 →00:05 hh:mm - Scheduled departure, Actual departure, Wheels OFF, Wheels ON, Scheduled
  
      Arrival, Actual Arrival.
-=======================================================================================================================================
+     
+===============================================================
 
 H)Key Insights:
 
@@ -124,7 +125,7 @@ H)Key Insights:
         4.2)Mid-Month Surge: Days 10–20 consistently outperform early and late month totals, indicating
             seasonal or operational escalation.
             
-=======================================================================================================================================
+===============================================================
 
 I)Key Recommendations:
       1)Target Delay Reduction in Top Categories:
@@ -160,7 +161,7 @@ I)Key Recommendations:
             in these months.
         8.2)These reflect seasonal travel demand or business cycle spikes.
 
-=======================================================================================================================================
+===============================================================
 
 J)Conclusions
       1)By analyzing over 33 key data points—including on-time performance, turnaround
@@ -171,4 +172,4 @@ J)Conclusions
       3)Future enhancements could include integrating real-time data feeds, forecasting
         passenger loads, and benchmarking across airports globally.
         
-=======================================================================================================================================
+===============================================================
