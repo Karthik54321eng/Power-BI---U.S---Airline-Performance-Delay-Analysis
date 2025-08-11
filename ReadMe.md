@@ -6,7 +6,7 @@
 
 ===============================================================
 
-       A)Project Objective:
+A)Project Objective:
 
            1)Analyze the primary causes and patterns of flight delays and cancellations. 
 
@@ -20,15 +20,15 @@
  
  ===============================================================
 
-      B)Tools: Excel + SQL + Power BI(DAX, Power Query - M Language).
+ B)Tools: Excel + SQL + Power BI(DAX, Power Query - M Language).
 
 ===============================================================
 
-      C)Presentation Pdf File:
+ C)Presentation Pdf File:
 
 ===============================================================
 
-      D)Problem Statement:
+ D)Problem Statement:
           
            1)Flight delays and cancellations are significant issues in the U.S aviation industry, impacting passengers, airlines, and the economy. 
 
@@ -37,11 +37,11 @@
 
 ===============================================================
 
-      E)Live Power Bi Report:
+E)Live Power Bi Report:
 
 ===============================================================
 
-      F)Dataset Overview:
+F)Dataset Overview:
 
            3 tables - Airlines, Airports & Flights
  
@@ -53,7 +53,7 @@
 
 ===============================================================
 
-      G)Data Cleaning:
+G)Data Cleaning:
 
            1)Appropriate Data Types - Whole Number, Text, Time, Date etc.
    
@@ -75,7 +75,7 @@
      
 ===============================================================
 
-      H)Key Insights:
+H)Key Insights:
 
            a)Airlines Performance :
    
