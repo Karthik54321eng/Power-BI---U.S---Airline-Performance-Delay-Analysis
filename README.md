@@ -93,9 +93,9 @@ a)Airlines Performance :
       
  7)Delay Attribution Insights:
       
-     7.1)Late Aircraft, Airline-related issues, Air system delay dominate delay reasons.
+  7.1)Late Aircraft, Airline-related issues, Air system delay dominate delay reasons.
        
-        7.2)Weather Delay and Security delays are minimal, suggesting external infrastructure isn’t a
+  7.2)Weather Delay and Security delays are minimal, suggesting external infrastructure isn’t a
            major bottleneck.
            
         7.3)Airlines with Longer Flight Distances tend to show slightly higher arrival delays, indicating
