@@ -4,7 +4,7 @@
 
 Dataset source: https://www.kaggle.com/datasets/usdot/flight-delays.
 
-Live PowerBi Desktop:https://app.powerbi.com/links/87_Lj_VGOR?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare
+Live PowerBi Dashboard:https://app.powerbi.com/links/87_Lj_VGOR?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare
 
 ===============================================================
 
